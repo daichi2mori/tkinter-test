@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tkinter-test"
+version = "0.1.0"
+description = ""
+authors = ["test"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ruff = "^0.5.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
